@@ -1,0 +1,1 @@
+This app save your data in the local store and don’t send it to enywhere.
